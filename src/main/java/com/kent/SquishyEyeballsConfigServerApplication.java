@@ -1,0 +1,12 @@
+package com.kent;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SquishyEyeballsConfigServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SquishyEyeballsConfigServerApplication.class, args);
+	}
+}
