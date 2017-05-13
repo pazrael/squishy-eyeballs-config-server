@@ -9,3 +9,4 @@ spring:
           uri: https://github.com/pazrael/squishy-eyeballs-config
           search-paths:
             - 'minis*'
+            - 'station*'
